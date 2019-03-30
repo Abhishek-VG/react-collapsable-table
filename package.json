@@ -1,6 +1,16 @@
 {
   "name": "react-collapsable-table",
-  "version": "0.0.2",
+  "version": "0.0.4",
+  "keywords": [
+    "react",
+    "table",
+    "collapsable-table",
+    "collapsable table",
+    "react-collapsable-table",
+    "react collapsable table",
+    "react-table",
+    "react table"
+  ],
   "description": "Table which collapses according to the size",
   "main": "build/dist/index.js",
   "module": "build/dist/index.es.js",
@@ -47,6 +57,7 @@
   "files": [
     "build/dist",
     "example",
-    "package.json"
+    "package.json",
+    "README.md"
   ]
 }
